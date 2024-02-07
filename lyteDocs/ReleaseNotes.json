@@ -31,6 +31,33 @@
         "date_of_commit": "7 - 2 - 2024",
         "time_of_commit": "11:47:28"
       }
+    ],
+    "n7.txt": [
+      {
+        "msg": "t",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "n7.txt",
+        "date_of_commit": "7 - 2 - 2024",
+        "time_of_commit": "15:34:56"
+      }
+    ],
+    "n6.txt": [
+      {
+        "msg": "c",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "n6.txt",
+        "date_of_commit": "7 - 2 - 2024",
+        "time_of_commit": "15:36:30"
+      }
+    ],
+    "n5.txt": [
+      {
+        "msg": "node",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "n5.txt",
+        "date_of_commit": "7 - 2 - 2024",
+        "time_of_commit": "15:43:39"
+      }
     ]
   }
 }
