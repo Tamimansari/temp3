@@ -58,6 +58,15 @@
         "date_of_commit": "7 - 2 - 2024",
         "time_of_commit": "15:43:39"
       }
+    ],
+    "new/n1.txt": [
+      {
+        "msg": "t",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "n1.txt",
+        "date_of_commit": "7 - 2 - 2024",
+        "time_of_commit": "18:18:57"
+      }
     ]
   }
 }
