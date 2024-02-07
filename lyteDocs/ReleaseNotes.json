@@ -67,6 +67,15 @@
         "date_of_commit": "7 - 2 - 2024",
         "time_of_commit": "18:18:57"
       }
+    ],
+    "new/n8.txt": [
+      {
+        "msg": "check",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "n8.txt",
+        "date_of_commit": "7 - 2 - 2024",
+        "time_of_commit": "18:27:46"
+      }
     ]
   }
 }
