@@ -130,7 +130,25 @@
         "type_of_commit": "Bug_Fix",
         "fileName": "n9.txt",
         "date_of_commit": "8 - 2 - 2024",
-        "time_of_commit": "11:44:31"
+        "time_of_commit": "11:45:48"
+      }
+    ],
+    "new/n11.txt": [
+      {
+        "msg": "che",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "n11.txt",
+        "date_of_commit": "8 - 2 - 2024",
+        "time_of_commit": "11:45:42"
+      }
+    ],
+    "new/n8.txt": [
+      {
+        "msg": "che",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "n8.txt",
+        "date_of_commit": "8 - 2 - 2024",
+        "time_of_commit": "11:45:45"
       }
     ]
   }
