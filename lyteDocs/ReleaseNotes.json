@@ -62,10 +62,10 @@
       },
       {
         "msg": "ch",
-        "type_of_commit": "[Style_Changes] ",
+        "type_of_commit": "[undefined] ",
         "fileName": "nn.txt",
         "date_of_commit": "8 - 2 - 2024",
-        "time_of_commit": "15:34:50"
+        "time_of_commit": "15:43:01"
       }
     ]
   }
