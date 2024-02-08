@@ -105,6 +105,15 @@
         "date_of_commit": "8 - 2 - 2024",
         "time_of_commit": "11:35:07"
       }
+    ],
+    "new/n10.txt": [
+      {
+        "msg": "check",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "n10.txt",
+        "date_of_commit": "8 - 2 - 2024",
+        "time_of_commit": "11:43:02"
+      }
     ]
   }
 }
