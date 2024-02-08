@@ -1,163 +1,21 @@
 {
-  "1.0.0": {
-    "n.txt": [
-      {
-        "msg": "testing",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "n.txt",
-        "date_of_commit": "6 - 2 - 2024",
-        "time_of_commit": "15:12:25"
-      },
-      {
-        "msg": "test",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "n.txt",
-        "date_of_commit": "6 - 2 - 2024",
-        "time_of_commit": "16:50:19"
-      },
-      {
-        "msg": "check",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "n.txt",
-        "date_of_commit": "8 - 2 - 2024",
-        "time_of_commit": "10:15:41"
-      }
-    ],
-    "n1.txt": [
-      {
-        "msg": "temp",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "n1.txt",
-        "date_of_commit": "7 - 2 - 2024",
-        "time_of_commit": "17:05:19"
-      }
-    ],
-    "n7.txt": [
-      {
-        "msg": "t",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "n7.txt",
-        "date_of_commit": "7 - 2 - 2024",
-        "time_of_commit": "15:34:56"
-      }
-    ],
-    "n6.txt": [
-      {
-        "msg": "c",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "n6.txt",
-        "date_of_commit": "8 - 2 - 2024",
-        "time_of_commit": "11:34:27"
-      }
-    ],
-    "n5.txt": [
-      {
-        "msg": "node",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "n5.txt",
-        "date_of_commit": "8 - 2 - 2024",
-        "time_of_commit": "10:34:46"
-      }
-    ],
-    "new/n1.txt": [
-      {
-        "msg": "t",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "n1.txt",
-        "date_of_commit": "7 - 2 - 2024",
-        "time_of_commit": "18:18:57"
-      }
-    ],
-    "new/n8.txt": [
-      {
-        "msg": "check",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "n8.txt",
-        "date_of_commit": "7 - 2 - 2024",
-        "time_of_commit": "18:27:46"
-      }
-    ],
+  "1.0.1": {
     "new/n.txt": [
       {
-        "msg": "checkup",
-        "type_of_commit": "Bug_Fix",
+        "msg": "calling",
+        "type_of_commit": "[Bug_Fix] (undefined)",
         "fileName": "n.txt",
         "date_of_commit": "8 - 2 - 2024",
-        "time_of_commit": "10:13:35"
-      }
-    ],
-    "new/n3.txt": [
-      {
-        "msg": "check",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "n3.txt",
-        "date_of_commit": "8 - 2 - 2024",
-        "time_of_commit": "10:30:49"
-      }
-    ]
-  },
-  "1.0.1": {
-    "package.json": [
-      {
-        "msg": "vchanged",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "package.json",
-        "date_of_commit": "8 - 2 - 2024",
-        "time_of_commit": "11:35:07"
-      }
-    ],
-    "new/n10.txt": [
-      {
-        "msg": "check",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "n10.txt",
-        "date_of_commit": "8 - 2 - 2024",
-        "time_of_commit": "14:32:39"
-      }
-    ],
-    "new/n5.txt": [
-      {
-        "msg": "check",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "n5.txt",
-        "date_of_commit": "8 - 2 - 2024",
-        "time_of_commit": "11:44:28"
-      }
-    ],
-    "new/n9.txt": [
-      {
-        "msg": "che",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "n9.txt",
-        "date_of_commit": "8 - 2 - 2024",
-        "time_of_commit": "11:47:15"
-      }
-    ],
-    "new/n11.txt": [
-      {
-        "msg": "che",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "n11.txt",
-        "date_of_commit": "8 - 2 - 2024",
-        "time_of_commit": "11:45:42"
+        "time_of_commit": "15:02:40"
       }
     ],
     "new/n8.txt": [
       {
-        "msg": "che",
-        "type_of_commit": "Bug_Fix",
+        "msg": "temps",
+        "type_of_commit": "[Bug_Fix] (check)",
         "fileName": "n8.txt",
         "date_of_commit": "8 - 2 - 2024",
-        "time_of_commit": "11:46:39"
-      }
-    ],
-    "new/n88.txt": [
-      {
-        "msg": "check",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "n88.txt",
-        "date_of_commit": "8 - 2 - 2024",
-        "time_of_commit": "14:31:53"
+        "time_of_commit": "15:06:22"
       }
     ]
   }
