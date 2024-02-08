@@ -15,7 +15,57 @@
         "type_of_commit": "[Bug_Fix] (check)",
         "fileName": "n8.txt",
         "date_of_commit": "8 - 2 - 2024",
-        "time_of_commit": "15:08:26"
+        "time_of_commit": "15:24:19"
+      },
+      {
+        "msg": "changes",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "n8.txt",
+        "date_of_commit": "8 - 2 - 2024",
+        "time_of_commit": "15:25:26"
+      }
+    ],
+    "n6.txt": [
+      {
+        "msg": "summa",
+        "type_of_commit": "[Bug_Fix] (code)",
+        "fileName": "n6.txt",
+        "date_of_commit": "8 - 2 - 2024",
+        "time_of_commit": "15:09:49"
+      }
+    ],
+    "new/n10.txt": [
+      {
+        "msg": "masg",
+        "type_of_commit": "[Style_changes]",
+        "fileName": "n10.txt",
+        "date_of_commit": "8 - 2 - 2024",
+        "time_of_commit": "15:15:16"
+      }
+    ],
+    "n5.txt": [
+      {
+        "msg": "increase",
+        "type_of_commit": "[Pefromance_Enhance] ",
+        "fileName": "n5.txt",
+        "date_of_commit": "8 - 2 - 2024",
+        "time_of_commit": "15:26:30"
+      }
+    ],
+    "new/nn.txt": [
+      {
+        "msg": "fix",
+        "type_of_commit": "[Bug_Fix] (changes)",
+        "fileName": "nn.txt",
+        "date_of_commit": "8 - 2 - 2024",
+        "time_of_commit": "15:34:19"
+      },
+      {
+        "msg": "ch",
+        "type_of_commit": "[Style_Changes] ",
+        "fileName": "nn.txt",
+        "date_of_commit": "8 - 2 - 2024",
+        "time_of_commit": "15:34:50"
       }
     ]
   }
