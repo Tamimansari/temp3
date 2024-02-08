@@ -114,6 +114,24 @@
         "date_of_commit": "8 - 2 - 2024",
         "time_of_commit": "11:43:02"
       }
+    ],
+    "new/n5.txt": [
+      {
+        "msg": "check",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "n5.txt",
+        "date_of_commit": "8 - 2 - 2024",
+        "time_of_commit": "11:44:28"
+      }
+    ],
+    "new/n9.txt": [
+      {
+        "msg": "che",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "n9.txt",
+        "date_of_commit": "8 - 2 - 2024",
+        "time_of_commit": "11:44:31"
+      }
     ]
   }
 }
