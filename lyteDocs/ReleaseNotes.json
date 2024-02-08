@@ -85,6 +85,15 @@
         "date_of_commit": "8 - 2 - 2024",
         "time_of_commit": "10:13:35"
       }
+    ],
+    "new/n3.txt": [
+      {
+        "msg": "check",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "n3.txt",
+        "date_of_commit": "8 - 2 - 2024",
+        "time_of_commit": "10:30:49"
+      }
     ]
   }
 }
