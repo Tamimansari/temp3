@@ -42,7 +42,7 @@
         "date_of_commit": "8 - 2 - 2024",
         "time_of_commit": "15:15:16"
       }
-    ],
+    ], 
     "n5.txt": [
       {
         "msg": "increase",
